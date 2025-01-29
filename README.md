@@ -1,4 +1,6 @@
 How to Play 2048
+
+
 2048 is a sliding puzzle game where the goal is to combine numbered tiles to create a tile with the value 2048. The game is played on a 4×4 grid, and tiles slide in one of four directions: up, down, left, or right.
 
 Gameplay Rules:
